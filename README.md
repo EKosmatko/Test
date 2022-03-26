@@ -1,6 +1,6 @@
 # New World 
 
-A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/fsociety-team/fsociety).
+Jest to moja prywatna wersja innego narzędzia hakierskiego.
 
 ## Menu
 
@@ -118,7 +118,7 @@ Use Google Cloud Console [Cloud Shell](https://console.cloud.google.com/cloudshe
 
 Or use free Ubuntu VPS [c9.io](https://c9.io/)
 
-## [Docker](https://en.wikipedia.org/wiki/Docker_(software)) Usage ![docker logo](https://png.icons8.com/color/50/000000/docker.png)
+## [Docker](https://en.wikipedia.org/wiki/Docker_(software)) 
 
 ### Dependecies
 
