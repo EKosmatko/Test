@@ -108,7 +108,7 @@ bash <(wget -qO- https://git.io/vAtmB)
 
 Follow this video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ)
 
-## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Folders-OS-Windows-8-Metro-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
 Download Linux Bash Like [Cygwin](https://www.cygwin.com/)
 
