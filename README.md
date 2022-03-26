@@ -106,7 +106,6 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 bash <(wget -qO- https://git.io/vAtmB)
 ```
 
-Follow this video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ)
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[  ![alt tag](https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-5.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
