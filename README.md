@@ -4,16 +4,16 @@ Jest to moja prywatna wersja innego narzędzia hakierskiego.
 
 ## Menu
 
-Zbieranie informacji
-Ataki hasłem
-Testowanie sieci bezprzewodowej
-Narzędzia eksploatacji
-Wąchanie i fałszowanie
-Hakowanie stron internetowych
-Hakowanie stron prywatnych
-Eksploatacja po zakończeniu eksploatacji
-Współpracowników
-Instalacja i aktualizacja
+- Zbieranie informacji
+- Ataki hasłem
+- Testowanie sieci bezprzewodowej
+- Narzędzia eksploatacji
+- Wąchanie i fałszowanie
+- Hakowanie stron internetowych
+- Hakowanie stron prywatnych
+- Eksploatacja po zakończeniu eksploatacji
+- Współpracowników
+- Instalacja i aktualizacja
 
 ### Information Gathering:
 
